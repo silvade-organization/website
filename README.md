@@ -1,7 +1,5 @@
 # My Website
 This is a great website
 
-updating readme from readme branch
+ Updates made on master on Github before rebase
 
-
-new edit from local readme branch, then edit remotely
