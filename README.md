@@ -7,3 +7,5 @@ Another remote change
 
 Hello local change
 Problem change on Github dev
+
+new text
