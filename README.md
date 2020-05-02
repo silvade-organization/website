@@ -1,8 +1,11 @@
 # My Website
 This is a great website
 
- (1) Updates made on master on Github before rebase again
+change on develop local
 
- (2) Updates made on master on local 
- (2) Updates made on master on Github
+Another remote change
 
+Hello local change
+Problem change on Github dev
+
+new text
